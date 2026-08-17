@@ -4,7 +4,7 @@ I'm Enzo, student of Data Science and AI at PUC-Campinas. Currently learning the
 
 ## Skills & Technologies
 
-[![My Skills](https://skillicons.dev/icons?i=linux,mysql,py,c,powershell,flutter,dart,php)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,mysql,py,c,powershell,flutter,dart,php,mongodb,flask)](https://skillicons.dev)
 
 ## GitHub Stats
 
