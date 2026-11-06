@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:3a3a3a&height=180&section=header&text=Hello%20world!%20🐀&fontSize=48&fontColor=ffffff&fontAlignY=40&desc=Data%20Science%20%26%20AI%20·%20PUC-Campinas&descAlignY=62&descSize=16" alt="banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:3a3a3a&height=180&section=header&text=Hello%20world!%20%F0%9F%90%80&fontSize=48&fontColor=ffffff&fontAlignY=40&desc=Data%20Science%20%26%20AI%20%C2%B7%20PUC-Campinas&descAlignY=62&descSize=16" alt="Hello world!" />
 </p>
 
 <p align="center">
@@ -29,8 +29,9 @@ Student of Data Science and AI at PUC-Campinas. Currently learning the fundament
   <img src="https://img.shields.io/badge/Dart-1a1a1a?style=flat-square&logo=dart&logoColor=white" />
   <img src="https://img.shields.io/badge/Flutter-1a1a1a?style=flat-square&logo=flutter&logoColor=white" />
   <img src="https://img.shields.io/badge/PHP-1a1a1a?style=flat-square&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flask-1a1a1a?style=flat-square&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-1a1a1a?style=flat-square&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-1a1a1a?style=flat-square&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-1a1a1a?style=flat-square&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-1a1a1a?style=flat-square&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-1a1a1a?style=flat-square&logo=linux&logoColor=white" />
   <img src="https://img.shields.io/badge/PowerShell-1a1a1a?style=flat-square&logoColor=white" />
@@ -42,8 +43,7 @@ Student of Data Science and AI at PUC-Campinas. Currently learning the fundament
 ### GitHub
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=vooort&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=bdbdbd&icon_color=8b8b8b&include_all_commits=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vooort&layout=compact&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=bdbdbd&langs_count=6" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vooort&theme=github_dark" />
 </p>
 
 <p align="center">
